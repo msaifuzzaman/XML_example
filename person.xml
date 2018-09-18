@@ -1,0 +1,26 @@
+<person>
+  <sl.no>23</sl.no>
+  <name>john carter</name>
+  <admisson_date>
+    <date>25</date>
+	<month>12</month>
+	<year>18</year>
+	</admisson_date>
+	
+	 <sl.no>25</sl.no>
+  <name>bob</name>
+  <admisson_date>
+    <date>27</date>
+	<month>12</month>
+	<year>18</year>
+	</admisson_date>
+	
+	 <sl.no>29</sl.no>
+  <name>clark</name>
+  <admisson_date>
+    <date>20</date>
+	<month>12</month>
+	<year>18</year>
+	</admisson_date>
+	
+	</person>
